@@ -1,0 +1,24 @@
+{ "tokat" : [
+    { 
+       "isim" :"Taşhan",
+       "aciklama":"1626 senesinde yapımına başlanan bu görkemli han, tipik Osmanlı mimarisinden de esintiler sunuyor.",
+         
+    },
+    {
+        "isim":"Tokat Kalesi",
+        "aciklama":"Roma Dönemi’nde inşasına başlanan bu görkemli kalenin yaklaşık 500 sene boyunca Bizans himayesinde kaldığı biliniyor. 1074 senesinde Melikşah Gazi öncülüğünde fethedilen kale, tarih boyunca sıklıkla el değiştirmiş.",
+  
+    },     
+
+    {
+       "isim":"Yazmacılar Hanı",
+       "aciklama":" “Gazioğlu Hanı” olarak da bilinen bu hanın böyle bir isimle anılmasının asıl nedeni, Tokat'ta yazmacılığın son derece önemli bir uğraş olması.",
+
+    },
+    { 
+         "isim" :"Tokat Saat Kulesi",
+         "aciklama":"Abdülhamit’in tahta çıkışının 25. yılına özel olarak inşa edilen Tokat Saat Kulesi, ilk günkü sağlamlığında şehir merkezindeki yerini koruyor. ",
+         
+    }
+
+]}
